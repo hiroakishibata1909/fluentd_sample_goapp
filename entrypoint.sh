@@ -1,4 +1,4 @@
-#!/usr/bin/dumb-init /bin/sh 
+#!/bin/sh
 
 # https://dev.classmethod.jp/cloud/aws/fargate-fluentd-s3/
 
